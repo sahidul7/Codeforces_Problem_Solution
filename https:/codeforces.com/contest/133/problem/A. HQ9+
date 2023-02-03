@@ -4,7 +4,7 @@ memory limit per test256 megabytes
 inputstandard input
 outputstandard output*/
 
-By Sahidul_7, contest: Codeforces Beta Round #96 (Div. 2), problem: (A) HQ9+, Accepted,
+//By Sahidul_7, contest: Codeforces Beta Round #96 (Div. 2), problem: (A) HQ9+, Accepted,
 /* Author:Md Sahidul Islam*/
 
 #include <bits/stdc++.h>
