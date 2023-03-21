@@ -5,6 +5,10 @@ memory limit per test256 megabytes
 inputstandard input
 outputstandard output
 */
+
+[PROBLEM LINK](https://codeforces.com/contest/1807/problem/A)
+               
+               
 #include<bits/stdc++.h>
 #define FAST ios_base::sync_with_stdio(false); cin.tie(NULL);
 #define FILE   freopen("perfectly_balanced_chapter_1_input.txt", "r", stdin);  freopen("output.txt", "w", stdout);
